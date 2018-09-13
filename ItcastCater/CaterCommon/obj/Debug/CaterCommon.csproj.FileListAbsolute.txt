@@ -1,0 +1,5 @@
+C:\Users\q1\Desktop\ItcastCater\CaterCommon\bin\Debug\CaterCommon.dll
+C:\Users\q1\Desktop\ItcastCater\CaterCommon\bin\Debug\CaterCommon.pdb
+C:\Users\q1\Desktop\ItcastCater\CaterCommon\obj\Debug\CaterCommon.csprojResolveAssemblyReference.cache
+C:\Users\q1\Desktop\ItcastCater\CaterCommon\obj\Debug\CaterCommon.dll
+C:\Users\q1\Desktop\ItcastCater\CaterCommon\obj\Debug\CaterCommon.pdb

@@ -1,0 +1,11 @@
+C:\Users\q1\Desktop\ItcastCater\CaterDal\bin\Debug\CaterDal.dll
+C:\Users\q1\Desktop\ItcastCater\CaterDal\bin\Debug\CaterDal.pdb
+C:\Users\q1\Desktop\ItcastCater\CaterDal\bin\Debug\CaterCommon.dll
+C:\Users\q1\Desktop\ItcastCater\CaterDal\bin\Debug\CaterModel.dll
+C:\Users\q1\Desktop\ItcastCater\CaterDal\bin\Debug\CaterCommon.pdb
+C:\Users\q1\Desktop\ItcastCater\CaterDal\bin\Debug\CaterModel.pdb
+C:\Users\q1\Desktop\ItcastCater\CaterDal\obj\Debug\CaterDal.csprojResolveAssemblyReference.cache
+C:\Users\q1\Desktop\ItcastCater\CaterDal\obj\Debug\CaterDal.dll
+C:\Users\q1\Desktop\ItcastCater\CaterDal\obj\Debug\CaterDal.pdb
+C:\Users\q1\Desktop\ItcastCater\CaterDal\bin\Debug\System.Data.SQLite.dll
+C:\Users\q1\Desktop\ItcastCater\CaterDal\bin\Debug\System.Data.SQLite.xml
